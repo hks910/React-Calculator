@@ -1,0 +1,1 @@
+ada node_modules yang saya hapus karena ukuran nya yang sangat besar
